@@ -1,0 +1,7 @@
+broatyctrl - My home automation system
+
+Uses the simple open ethercat master library https://github.com/OpenEtherCATsociety/SOEM
+
+Licence: GPLv3
+
+Probably not interesting to anyone else.
